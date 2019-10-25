@@ -43,7 +43,7 @@ def using_insert(array, element)
 end
 
 def using_delete_at(array,place)
-  array.delete(place)
+  array.delete_at(place)
 end
 
 
